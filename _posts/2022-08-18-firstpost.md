@@ -1,6 +1,6 @@
 ----
 layout: single
-title: github에서의 첫번째 포스트
+title: "github에서의 첫번째 포스트"
 ----
 
 # Github에서의 첫 포스트
